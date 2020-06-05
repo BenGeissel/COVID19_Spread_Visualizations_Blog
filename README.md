@@ -15,3 +15,4 @@ COVID19_Spread_Visualizations.ipynb
 - [5/15/20 Blog Update](https://bensdata.science.blog/2020/05/15/update-visualizing-the-covid-19-crisis-across-the-world-and-in-the-united-states-5-15-20/)
 - [5/22/20 Blog Update](https://bensdata.science.blog/2020/05/22/update-visualizing-the-covid-19-crisis-across-the-world-and-in-the-united-states-5-22-20/)
 - [5/29/20 Blog Update](https://bensdata.science.blog/2020/05/29/update-visualizing-the-covid-19-crisis-across-the-world-and-in-the-united-states-5-29-20/)
+- [6/5/20 Blog Update](https://bensdata.science.blog/2020/06/05/update-visualizing-the-covid-19-crisis-across-the-world-and-in-the-united-states-6-5-20/)
